@@ -294,7 +294,7 @@ function catchkathmandu_theme_options_do_page() {
                                 </div>
                                 <div class="col col-2">
                                 	<input type='hidden' value='0' name='catchkathmandu_options[disable_header_right_sidebar]'>
-                                    <input type="checkbox" id="headerlogo" name="catchkathmandu_options[disable_header_right_sidebar]" value="1" <?php checked( '1', $options['disable_header_right_sidebar'] ); ?> /> <?php _e('Check to Disable', 'catchthemes'); ?>
+                                    <input type="checkbox" id="headerlogo" name="catchkathmandu_options[disable_header_right_sidebar]" value="1" <?php checked( '1', $options['disable_header_right_sidebar'] ); ?> /> <?php _e('Check to Disable', 'catchkathmandu'); ?>
                            		</div>
                          	</div><!-- .row -->
                         	<div class="row">
@@ -398,7 +398,7 @@ function catchkathmandu_theme_options_do_page() {
                                 </div>
                                 <div class="col col-2">
                                 	<input type="hidden" value="0" name="catchkathmandu_options[featured_header_image_base]">
-                                    <input type="checkbox" id="header-image-base" name="catchkathmandu_options[featured_header_image_base]" value="1" <?php checked( '1', $options['featured_header_image_base'] ); ?> /> <?php _e('Check to open in new window', 'catchthemes'); ?>
+                                    <input type="checkbox" id="header-image-base" name="catchkathmandu_options[featured_header_image_base]" value="1" <?php checked( '1', $options['featured_header_image_base'] ); ?> /> <?php _e('Check to open in new window', 'catchkathmandu'); ?>
                               	</div>
                           	</div><!-- .row -->
                             <div class="row">
@@ -412,7 +412,7 @@ function catchkathmandu_theme_options_do_page() {
                               	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
 						</div><!-- .option-content -->
                  	</div><!-- .option-container -->
@@ -443,7 +443,7 @@ function catchkathmandu_theme_options_do_page() {
                                	</div>
                             </div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -497,7 +497,7 @@ function catchkathmandu_theme_options_do_page() {
                               	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -541,7 +541,7 @@ function catchkathmandu_theme_options_do_page() {
                               	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                     	</div><!-- .option-content -->
                  	</div><!-- .option-container -->
@@ -558,7 +558,7 @@ function catchkathmandu_theme_options_do_page() {
                              	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -593,7 +593,7 @@ function catchkathmandu_theme_options_do_page() {
                               	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -610,7 +610,7 @@ function catchkathmandu_theme_options_do_page() {
                              	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -635,7 +635,7 @@ function catchkathmandu_theme_options_do_page() {
                             	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -711,7 +711,7 @@ function catchkathmandu_theme_options_do_page() {
                              	</div>
                           	</div><!-- .row -->
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
@@ -811,7 +811,7 @@ function catchkathmandu_theme_options_do_page() {
                                 </div><!-- .repeat-content-wrap -->
                             <?php endfor; ?>
                             <div class="row">
-                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchthemes' ); ?>" />
+                            	<input type="submit" class="button-primary" value="<?php esc_attr_e( 'Save Changes', 'catchkathmandu' ); ?>" />
                           	</div><!-- .row -->
                         </div><!-- .option-content -->
                     </div><!-- .option-container -->
